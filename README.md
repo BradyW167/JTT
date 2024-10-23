@@ -1,6 +1,6 @@
 # Jerry-Tac-Toe
 
-Object-Oriented Programming and Data Structurs (CS248) final project. A structurally altered tic-tac-toe game against a computer.
+Object-Oriented Programming and Data Structures (CS248) final project. A structurally altered tic-tac-toe game against a computer.
 
 Gameplay
 - Checkbox to decide who goes first
