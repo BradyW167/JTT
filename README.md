@@ -4,6 +4,8 @@ Object-Oriented Programming and Data Structures (CS248) final project. A structu
 
 How to Play
 - Checkbox to decide who goes first
-- Hit the start button
-- Enter a number in the input box at the bottom and hit enter
-- Three tacs in any line is a win
+- Hit the play button
+- Type a number in the input box in the bottom middle
+- Hit the enter button to make your move
+- Three tacs selected across any black line is a win
+- Hit reset in bottom right to start a new game
